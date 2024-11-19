@@ -1,0 +1,9 @@
+Package: com.netskao.wcisoverseauser
+Name: WCIsOverSeaUser
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 14.0)
+Description: WeChat Patch isOverSeaUser
+Author: Netskao
+Maintainer: Nets
+Section: Netskao-Tweaks
